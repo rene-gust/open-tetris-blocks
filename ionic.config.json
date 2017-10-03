@@ -1,0 +1,8 @@
+{
+  "name": "Tetris Blocks",
+  "app_id": "05da74de",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
